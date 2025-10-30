@@ -1,7 +1,7 @@
 {
   "vendor": "speedoco",
   "name": "buy-together",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "title": "Buy together",
   "description": "Buy together for speedo store",
   "builders": {
