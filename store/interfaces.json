@@ -1,0 +1,16 @@
+{
+  "hero-banner": {
+    "component": "HeroBanner",
+    "messages": {
+      "title": "Hero Banner",
+      "description": "A banner with a title, subtitle, and highlight."
+    }
+  },
+  "product-group": {
+    "component": "ProductGroup",
+    "messages": {
+      "title": "Product Group",
+      "description": "A group of products to be bought together."
+    }
+  }
+}

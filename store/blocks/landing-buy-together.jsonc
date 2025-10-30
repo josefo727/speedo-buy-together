@@ -1,0 +1,26 @@
+{
+  "store.custom#landing-buy-together": {
+    "blocks": [
+      "flex-layout.row#hero-banner",
+      "flex-layout.row#product-group",
+      "flex-layout.row#hero-banner-2"
+    ]
+  },
+  "flex-layout.row#hero-banner": {
+    "title": "hero banner",
+    "children": ["hero-banner"]
+  },
+  "flex-layout.row#product-group": {
+    "title": "product group",
+    "children": ["product-group#buy-together"]
+  },
+  "product-group#buy-together": {
+    "props": {
+      "collectionIds": [326, 326, 326]
+    }
+  },
+  "flex-layout.row#hero-banner-2": {
+    "title": "hero banner",
+    "children": ["hero-banner"]
+  }
+}
